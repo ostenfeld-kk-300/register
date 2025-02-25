@@ -1,0 +1,17 @@
+{
+    "description": "Wildcard for dormitory kitchen to host stuff",
+
+    "domain": "is-cool.dev",
+    "subdomain": "*.bongostan",
+
+    "owner": {
+        "repo": "https://github.com/ostenfeld-kk-300/register",
+        "email": "ostenfeldkk300@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "bongostan.is-cool.dev",
+    },
+
+    "proxied": true
+}
